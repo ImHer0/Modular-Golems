@@ -1,0 +1,69 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [128, 128],
+	"texture": "textures/entity/iron_golem/netherite_golem.png",
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -31, 0],
+			"boxes": [
+				{"coordinates": [-9, 21, -6, 18, 12, 11], "textureOffset": [0, 0]},
+				{"coordinates": [-6.5, 16, -3, 13, 5, 6], "textureOffset": [48, 41], "sizeAdd": 0.5}
+			]
+		},
+		{
+			"part": "head",
+			"id": "head",
+			"invertAxis": "xy",
+			"translate": [0, -31, 2],
+			"boxes": [
+				{"coordinates": [-4, 33, -7.5, 8, 10, 8], "textureOffset": [48, 23]},
+				{"coordinates": [-1, 32, -9.5, 2, 4, 2], "textureOffset": [44, 65]}
+			]
+		},
+		{
+			"part": "right_arm",
+			"id": "right_arm",
+			"invertAxis": "xy",
+			"translate": [0, -31, 0],
+			"boxes": [
+				{"coordinates": [9, 29.5, -4, 7, 5, 8], "textureOffset": [58, 0]},
+				{"coordinates": [11.5, 31.75, -6, 2, 5, 2], "textureOffset": [58, 13]},
+				{"coordinates": [11.35, 31.75, 4, 2, 5, 2], "textureOffset": [58, 13]},
+				{"coordinates": [16.1, 31.75, -0.75, 2, 5, 2], "textureOffset": [58, 13]}
+			]
+		},
+		{
+			"part": "left_arm",
+			"id": "left_arm",
+			"invertAxis": "xy",
+			"translate": [0, -31, 0],
+			"boxes": [
+				{"coordinates": [-16, 29.5, -4, 7, 5, 8], "textureOffset": [58, 0]},
+				{"coordinates": [-17.9, 31.75, -0.75, 2, 5, 2], "textureOffset": [58, 13]},
+				{"coordinates": [-13.4, 31.75, -6, 2, 5, 2], "textureOffset": [58, 13]},
+				{"coordinates": [-13.4, 31.75, 4, 2, 5, 2], "textureOffset": [58, 13]}
+			]
+		},
+		{
+			"part": "right_leg",
+			"id": "right_leg",
+			"invertAxis": "xy",
+			"translate": [-4, -13, 0],
+			"boxes": [
+				{"coordinates": [0.5, 0, -3, 6, 16, 5], "textureOffset": [0, 59]}
+			]
+		},
+		{
+			"part": "left_leg",
+			"id": "left_leg",
+			"invertAxis": "xy",
+			"translate": [5, -13, 0],
+			"boxes": [
+				{"coordinates": [-6.5, 0, -3, 6, 16, 5], "textureOffset": [22, 59]}
+			]
+		}
+	]
+}

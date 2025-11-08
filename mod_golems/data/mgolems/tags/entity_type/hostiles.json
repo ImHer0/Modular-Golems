@@ -1,0 +1,30 @@
+{
+  "values": [
+    "#minecraft:zombies",
+    "#minecraft:skeletons",
+    "#minecraft:frog_food",
+    "#minecraft:illager",
+    "#minecraft:no_anger_from_wind_charge",
+    "#minecraft:raiders",
+    "minecraft:warden",
+    "minecraft:creeper",
+    "minecraft:spider",
+    "minecraft:cave_spider",
+    "minecraft:enderman",
+    "minecraft:endermite",
+    "minecraft:silverfish",
+    "minecraft:blaze",
+    "minecraft:ghast",
+    "minecraft:magma_cube",
+    "minecraft:phantom",
+    "minecraft:shulker",
+    "minecraft:guardian",
+    "minecraft:elder_guardian",
+    "minecraft:hoglin",
+    "minecraft:piglin_brute",
+    "minecraft:wither",
+    "minecraft:ender_dragon",
+    "minecraft:vex",
+    "minecraft:breeze"
+  ]
+}
