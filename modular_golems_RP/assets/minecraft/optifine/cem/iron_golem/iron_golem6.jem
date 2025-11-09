@@ -1,7 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textureSize": [128, 128],
-	"texture": "textures/entity/iron_golem/amethyst_golem.png",
+	"texture": "textures/entity/iron_golem/emerald_golem.png",
 	"models": [
 		{
 			"part": "body",
