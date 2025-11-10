@@ -5,10 +5,10 @@
       "conditions": {
         "location": [
           { "condition": "minecraft:location_check", "predicate": { "block": { "blocks": ["minecraft:carved_pumpkin"] } } },
-          { "condition": "minecraft:location_check", "predicate": { "block": { "blocks": ["minecraft:resin_block"] } }, "offsetX": 1 },
-          { "condition": "minecraft:location_check", "predicate": { "block": { "blocks": ["minecraft:resin_block"] } }, "offsetX": 2 },
-          { "condition": "minecraft:location_check", "predicate": { "block": { "blocks": ["minecraft:resin_block"] } }, "offsetZ": 1, "offsetX": 1 },
-          { "condition": "minecraft:location_check", "predicate": { "block": { "blocks": ["minecraft:resin_block"] } }, "offsetZ": -1, "offsetX": 1 }
+          { "condition": "minecraft:location_check", "predicate": { "block": { "blocks": ["minecraft:Block_of_Resin"] } }, "offsetX": 1 },
+          { "condition": "minecraft:location_check", "predicate": { "block": { "blocks": ["minecraft:Block_of_Resin"] } }, "offsetX": 2 },
+          { "condition": "minecraft:location_check", "predicate": { "block": { "blocks": ["minecraft:Block_of_Resin"] } }, "offsetZ": 1, "offsetX": 1 },
+          { "condition": "minecraft:location_check", "predicate": { "block": { "blocks": ["minecraft:Block_of_Resin"] } }, "offsetZ": -1, "offsetX": 1 }
         ]
       }
     }

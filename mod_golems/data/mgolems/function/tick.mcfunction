@@ -21,7 +21,7 @@ execute as @e[type=minecraft:iron_golem,tag=!mghasmaterial,tag=!mgsuper] at @s i
 
 execute as @e[type=minecraft:iron_golem,tag=!mghasmaterial,tag=!mgsuper] at @s if entity @e[distance=..1,type=item,nbt={Item:{id:"minecraft:amethyst_block",count:1}}] run function mgolems:materials/amethyst/amethyst
 
-execute as @e[type=minecraft:iron_golem,tag=!mghasmaterial,tag=!mgsuper] at @s if entity @e[distance=..1,type=item,nbt={Item:{id:"minecraft:resin_block",count:1}}] run function mgolems:materials/resin/resin
+execute as @e[type=minecraft:iron_golem,tag=!mghasmaterial,tag=!mgsuper] at @s if entity @e[distance=..1,type=item,nbt={Item:{id:"minecraft:Block_of_Resin",count:1}}] run function mgolems:materials/resin/resin
 
 # Speed Upgrades - 1, 32, 64
 execute as @e[type=minecraft:iron_golem,tag=!mgspeed1,tag=!mgsuper] at @s if entity @e[distance=..1,type=item,nbt={Item:{id:"minecraft:sugar",count:1}}] run function mgolems:upgrades/speed/lvl1
